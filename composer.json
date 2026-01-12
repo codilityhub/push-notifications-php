@@ -1,11 +1,11 @@
 {
-    "name": "pusher/pusher-push-notifications",
+    "name": "codilityhub/pusher-push-notifications",
     "version": "2.0",
     "license": "MIT",
     "require": {
         "php": ">=8.0",
         "guzzlehttp/guzzle": "^7.0",
-        "firebase/php-jwt": "^6.0",
+        "firebase/php-jwt": "^7.0.2",
         "ext-mbstring": "*"
     },
     "require-dev": {
